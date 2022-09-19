@@ -10,4 +10,4 @@ Lakmal Pinnaduwage
 
 **Activity 3**
 
-![Activity 3 Image](images/activity3.JPG)
+![Activity 3 Image](images/activity3-2.JPG)
