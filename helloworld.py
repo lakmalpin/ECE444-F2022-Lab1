@@ -1,1 +1,1 @@
-print("Hello World: Lakmal Pinnaduwage")
+print("Hello World. Edwin is better than Lakmal at basketball :)")
