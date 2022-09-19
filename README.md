@@ -19,3 +19,20 @@ https://github.com/Edwinz28/ECE444-F2022-Lab1
 ![Activity 4 Image](images/activity4.JPG)
 
 ![Activity 4 Image 2](images/activity4-2.JPG)
+
+**Activity 5**
+
+Rebase command:
+
+![Activity 5 Image](images/activity5.JPG)
+
+Rebase successful:
+![Activity 5 Image](images/activity5-2.JPG)
+
+Merge rebase branch to develop:
+![Activity 5 Image](images/activity5-3.JPG)
+
+![Activity 5 Image](images/activity5-4.JPG)
+
+Git log of develop:
+![Activity 5 Image](images/activity5-5.JPG)
