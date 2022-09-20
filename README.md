@@ -36,3 +36,7 @@ Merge rebase branch to develop:
 
 Git log of develop:
 ![Activity 5 Image](images/activity5-5.JPG)
+
+**Activity 6**
+
+https://github.com/lakmalpin/ECE444-F2022-EP
